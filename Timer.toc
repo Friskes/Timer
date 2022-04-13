@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title: Timer
+## Author: Blizzard Entertainment, RomanSpector, Friskes.
+## Notes: Animated timer, displays the time until the start of the battle. You can also use it to create your own timers, more information in the file: |cff5580FFTimer.lua|r
+## Notes-ruRU: Анимированный таймер, отображает время до начала сражения. Так же можно использовать для создания своих таймеров, больше информации в файле: |cff5580FFTimer.lua|r
+## Version: 1.2
+
+Timer.lua
